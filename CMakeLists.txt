@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(GestureControl)
+find_package(OpenCV REQUIRED)
+add_executable(GestureControl main.cpp)
+target_link_libraries(GestureControl ${OpenCV_LIBS})

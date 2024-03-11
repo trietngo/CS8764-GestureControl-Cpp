@@ -1,5 +1,5 @@
 # CS8674-GestureControl-Cpp
-An exploration and implementation of gesture control using C++ and OpenCV. Advised by Dr. Scott Valcourt of the Roux Institute at Northeastern University.
+An exploration and implementation of gesture control using C++ and OpenCV. Supervised by Dr. Scott Valcourt of the Roux Institute at Northeastern University.
 
 Fist and Hand Models acquired from Sandeep Sthapit: https://github.com/Sandeep-Sthapit/HandGestureDetection
 

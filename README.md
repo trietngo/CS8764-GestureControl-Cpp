@@ -4,7 +4,7 @@ An exploration and implementation of gesture control using C++ and OpenCV. Super
 Fist and Hand Models acquired from Sandeep Sthapit: https://github.com/Sandeep-Sthapit/HandGestureDetection
 
 How to run the detection program from the terminal:
-1. Make sure OpenCV and CMake are installed on your system.
+1. Make sure OpenCV and CMake are installed on your system. Currently, only Windows is supported.
 2. Create a build folder: "mkdir build". Then access the folder: "cd build"
 3. Replace the Fist and Hand Models paths with those from the Resource folder in your system.
 4. Type "cmake .." to initialize the Makefile
